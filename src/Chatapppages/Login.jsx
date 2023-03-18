@@ -5,7 +5,7 @@ import '../Chatapppages/style.css';
 const Login = () => {
 
     return (
-        <div className="main-container">
+        <div className="container">
             <link rel="stylesheet" href="./Chatapppages/style.css"></link>
             <img id="Logo2" src={REACTLOGO} />
             <input type="text" id="Email" placeholder="Enter your E-mail" />
